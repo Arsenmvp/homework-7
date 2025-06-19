@@ -3,7 +3,6 @@ function getMaxSalary(salaries) {
   return values.length ? Math.max(...values) : 0;
 }
 
-// Приклад:
 let salaries = {
   Anna: 300,
   John: 500,
